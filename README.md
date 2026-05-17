@@ -71,28 +71,6 @@ The **Hybrid CNN** achieved significantly higher precision ($90.4\%$). While the
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-```bash
-pip install opencv-python tensorflow numpy pandas scikit-learn tqdm
-
-```
-
-### Running the Project
-
-1. Clone the repo: `git clone https://github.com/your-username/thermal-foot-dip.git`
-2. Update dataset paths in the script.
-3. Run the training script:
-
-```python
-python full_pipeline.py
-
-```
-
----
-
 ## 📜 Conclusion
 
 This project demonstrates that **DIP is not obsolete in the age of AI**. By using DIP to pre-process medical images, we reduce the search space for the CNN, allowing a simpler model to achieve higher accuracy with less data.
