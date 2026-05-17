@@ -71,23 +71,6 @@ The **Hybrid CNN** achieved significantly higher precision ($90.4\%$). While the
 
 ---
 
-## 📂 Repository Structure
-
-```bash
-├── data/                    # Dataset (Thermal images)
-├── notebooks/
-│   └── thermal_analysis.ipynb # Main Kaggle/Jupyter Notebook
-├── src/
-│   ├── dip_utils.py          # HSV masks & segmentation functions
-│   └── model.py              # CNN architecture
-├── results/
-│   └── val_predictions.csv   # Validation metrics
-└── README.md
-
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
